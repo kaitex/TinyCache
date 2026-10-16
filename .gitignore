@@ -1,0 +1,49 @@
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
+
+
+TestResults/
+coverage/
+coverage.*
+*.coverage
+*.coveragexml
+
+*.nupkg
+*.snupkg
+.nuget/
+
+
+.env
+.env.*
+!.env.example
+secrets.json
+appsettings.Local.json
+ideas.md
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+
+*.tmp
+*.temp
+*.log
